@@ -23,4 +23,4 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 **Reflexiones** Recientemente comencé a programar y es una gran sensación cuando finalmente resuelvo un desafío de algoritmo después de muchos intentos y horas.  
 **Enlace(s) a mi trabajo**
 
-1.  [100 Days of Code: Día 1](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1.  [100 Days of Code: Día 1](https://dev.to/rzerostern/100-days-of-code-dia-1-4oco)
