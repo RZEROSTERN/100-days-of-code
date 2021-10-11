@@ -35,6 +35,9 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 **Progreso de hoy**: Armar un splash screen para iOS
 
 **Reflexiones** El proceso es muy diferente al que se lleva en Android. En este caso, también tienes que crear las imagenes forzosamente en PNG (XCode no acepta otro formato).
-**Enlace(s) a mi trabajo**
 
-1.  [Repository](https://dev.to/rzerostern/100-days-of-code-dia-1-4oco)
+### día 4: 11 de octubre de 2021
+
+**Progreso de hoy**: Navegabilidad básica en iOS
+
+**Reflexiones** Si uno ya le agarró la onda a las nav_views de Android, se le hará muy sencillo manipular el storyboard en iOS. Lo bueno se viene al querer implementar con Storyboard MVVM, pero debe ser algo bastante sencillo, ya conforme uno vaya agarrando experiencia.
