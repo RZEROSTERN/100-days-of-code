@@ -53,3 +53,6 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 **Progreso de hoy**: Android: Prototipo para Valet Parking terminado
 
 **Reflexiones** Para incrementar mi experiencia en Android, hice un prototipo para hacer entradas y salidas en un Valet Parking, mismo que si se autoriza podrá ser un bien ejercicio para poder tener mejor portafolio. Lamentablemente, hasta que no se decida el destino de dicho proyecto, tendré que mantener el repositorio en privado.
+
+### día 7: 15 de octubre de 2021
+**Progreso de hoy**: 
