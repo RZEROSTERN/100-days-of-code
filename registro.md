@@ -61,3 +61,6 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 ### días 8 a 10: 22 a 24 de octubre de 2021
 **Progreso**: Hubo mucho aprendizaje en esta ocasión y puedo decir que hice un scaffolding decente en la app iOS que había hecho.
 **Reflexiones**: Aunque fue desagradable la causa por la que aprendí esto, la verdad es que el aprendizaje sigue siendo muy chingón para ello. Ahora probaré hacer un scaffolding más actualizado con SwiftUI.
+**Enlace(s) a mi trabajo**: Les comparto mi repositorio, por si quieren aprender un poquito.
+
+1.  [Repositorio app iOS](https://github.com/RZEROSTERN/super-app-ios)
