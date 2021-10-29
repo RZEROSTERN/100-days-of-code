@@ -63,4 +63,4 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 **Reflexiones**: Aunque fue desagradable la causa por la que aprendí esto, la verdad es que el aprendizaje sigue siendo muy chingón para ello. Ahora probaré hacer un scaffolding más actualizado con SwiftUI.
 **Enlace(s) a mi trabajo**: Les comparto mi repositorio, por si quieren aprender un poquito.
 
-1.  [Repositorio app iOS](https://github.com/RZEROSTERN/super-app-ios)
+1.  [Repositorio app iOS](https://github.com/ProgramoxComida/super-app-ios)
