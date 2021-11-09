@@ -67,3 +67,12 @@ Los primeros dos puntos son prioridad. El resto son opcionales o pueden ser divi
 **Enlace(s) a mi trabajo**: Les comparto mi repositorio, por si quieren aprender un poquito.
 
 1.  [Repositorio app iOS](https://github.com/ProgramoxComida/super-app-ios)
+
+### Día 11: 8 de Noviembre de 2021
+**Progreso**: Dentro de la empresa que trabajo, nos dieron la oportunidad de tomar un bootcamp de React, por lo que vamos a estarle pegando a este bootcamp. 
+
+**Reflexiones**: He intentado tener sólidos mis conocimientos en React para poder llegar a ofrecer aunque sea un par de soluciones con esta librería, sin embargo se me ha negado desde tiempo atrás. Espero que ahora sí salga todo bien.
+
+**Enlace(s) a mi trabajo**: Para que vayan viendo cómo avanza, comparto el repo de los proyectos:
+
+1. [Repositorio app ReactJS](https://github.com/RZEROSTERN/wa-react-2021-q4-internal-capstone-project)
